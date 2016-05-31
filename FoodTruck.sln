@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodTruckAPI", "FoodTruckAPI\FoodTruckAPI.csproj", "{1D639B11-3BE8-4DE7-A444-FDB4D53E6FE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceDefinitions", "ServiceDefinitions\ServiceDefinitions.csproj", "{C161081F-8C6C-46D7-97E5-BC371F1B4472}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceModels", "ServiceModels\ServiceModels.csproj", "{ABCEAEC0-08BC-464C-B88E-67677BCFD3D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository", "Repository\Repository.csproj", "{009138DD-E866-4B50-B80A-2ACD9226FD84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D639B11-3BE8-4DE7-A444-FDB4D53E6FE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D639B11-3BE8-4DE7-A444-FDB4D53E6FE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D639B11-3BE8-4DE7-A444-FDB4D53E6FE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D639B11-3BE8-4DE7-A444-FDB4D53E6FE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C161081F-8C6C-46D7-97E5-BC371F1B4472}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C161081F-8C6C-46D7-97E5-BC371F1B4472}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C161081F-8C6C-46D7-97E5-BC371F1B4472}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C161081F-8C6C-46D7-97E5-BC371F1B4472}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABCEAEC0-08BC-464C-B88E-67677BCFD3D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABCEAEC0-08BC-464C-B88E-67677BCFD3D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABCEAEC0-08BC-464C-B88E-67677BCFD3D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABCEAEC0-08BC-464C-B88E-67677BCFD3D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{009138DD-E866-4B50-B80A-2ACD9226FD84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{009138DD-E866-4B50-B80A-2ACD9226FD84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{009138DD-E866-4B50-B80A-2ACD9226FD84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{009138DD-E866-4B50-B80A-2ACD9226FD84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
